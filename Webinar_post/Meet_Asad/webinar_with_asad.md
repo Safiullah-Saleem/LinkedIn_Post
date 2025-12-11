@@ -31,14 +31,4 @@ Shoutout to iCodeGuru and the awesome mentors Sir Zafar Shahid, PhD, Sir Rizwan 
 
 Feeling inspired. How do you all keep your skills sharp and make your work count for more than just a paycheck?
 
-## Screenshots
-
-<img src="asad.jpeg" alt="Alt text" width="300" height="200">
-<img src="asad1.jpeg" alt="Alt text" width="150" height="200">
-<img src="asad2.jpeg" alt="Alt text" width="150" height="200">
-<img src="asad3.jpeg" alt="Alt text" width="150" height="200">
-<img src="asad4.jpeg" alt="Alt text" width="300" height="200">
-<img src="asad5.jpeg" alt="Alt text" width="300" height="200">
-
-
 
